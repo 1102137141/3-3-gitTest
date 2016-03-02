@@ -9,7 +9,7 @@ namespace WebApplication3
     {
         public static void Main()
         {
-            System.Diagnostics.Debug.WriteLine("SomeText");
+            System.Console.WriteLine("SomeText");
         }
     }
 }
